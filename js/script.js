@@ -1,6 +1,6 @@
 $(function(){
   	$("#typed").typed({
-  		strings: ["affili.app", "coming soon", "👋"],
+  		strings: ["affili.app", "coming soon", " 👋 "],
   		typeSpeed: 100,
   		startDelay: 0,
   		backSpeed: 60,
